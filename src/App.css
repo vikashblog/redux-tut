@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+/*  */
+.add-to-cart img{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+
+}
+.cart-wrapper{
+  height: 170px;
+  width: 201px;
+  padding: 10px;
+  border: 2px solid darkseagreen;
+  margin-left: 1%;
+}
+.img-wrapper img{
+  height: 100px;
+}
+.btn-wrapper button{
+  background: burlywood;
+  padding: 4px;
+  color: black;
+  margin-top: 8px;
+  border-radius: 5px;
+}
+/*  */
